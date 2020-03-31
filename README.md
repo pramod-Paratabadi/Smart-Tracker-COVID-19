@@ -55,7 +55,7 @@ The app is useful for those who want data regarding COVID-19. The people from ev
 ## ScreenShots
 
 **[News section : Recent news with scrollview**:
-<img src="https://drive.google.com/open?id=15ec51Fv485HzR-D_77iKslgheXsxgnjr" />
+![image](https://drive.google.com/open?id=15ec51Fv485HzR-D_77iKslgheXsxgnjr)
 
 ###### ![News section : Recent news with scrollview](https://drive.google.com/open?id=15ec51Fv485HzR-D_77iKslgheXsxgnjr) 
 ###### ![Worldwide Cases of COVID-19]("https://drive.google.com/open?id=1fguB1xwvic7hL79xiDn9A3-77s3_Om24") 
