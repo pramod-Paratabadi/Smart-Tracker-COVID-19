@@ -1,21 +1,19 @@
 # Smart-Tracker-COVID-19
 
 ## Table of Contents
-* [Details](#general-info)
-* [Idea Description](#technologies)
+* [Details](#details)
+* [Idea Description](#idea)
 * [Setup](#setup)
 
-----------------------------------------------------------------------------------------------------------------------------------------
 ## Details
 
-### Software Edition
-### Team Name    :  BugZero
-### Theme Name  :   COVID-19 and Quarantine
-### College Name :  Walchand Institute of Technology, Solapur
-###Team Details:
+###### Software Edition
+###### Team Name    :  BugZero
+###### Theme Name  :   COVID-19 and Quarantine
+###### College Name :  Walchand Institute of Technology, Solapur
+######Team Details:
 1. Pramod Paratabadi – 9158038227
 2. Supriya Madiwal - 9766844410
-
 
 ## Idea Description
 Android app to track the spread of Corona Virus (COVID-19) : (Smart Tracker – COVID-19)
@@ -27,13 +25,23 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 
 	
 ## Setup
-To run this project, install it locally using npm:
+###### How will you implement the idea? :
+###### For this idea we have used following tech stack :
+- IDE : Android Studio(https://developer.android.com/studio)
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+###### Dependencies :
+- User should have proper internet facility.
+###### For the live news update worldwide we have used :
+- COVID-19 Dashboard that shows the real-time data of death cases
+######For the live data of Indian COVID-19 cases we have used :
+- Coronavirus Monitor
+- Ministry of Health and Welfare of India
+
+## Prerequisites
+ You will need the following things properly run it on your computer.
+
+- Android Studio(https://developer.android.com/studio)
+
 ###Github repo link: https://github.com/pramod-Paratabadi/COVID-19
 
 
