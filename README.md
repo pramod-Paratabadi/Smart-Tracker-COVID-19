@@ -16,6 +16,21 @@
 1. Pramod Paratabadi – 9158038227
 2. Supriya Madiwal - 9766844410
 
+
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 ###Github repo link: https://github.com/pramod-Paratabadi/COVID-19
 
 
