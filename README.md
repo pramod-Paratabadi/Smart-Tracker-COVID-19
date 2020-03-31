@@ -54,4 +54,12 @@ The app is useful for those who want data regarding COVID-19. The people from ev
 ###### Vedio Link: [SmartTrack](https://drive.google.com/file/d/1MrsEJaL_s3MZ1bpgTK1tnhowRJymjrvO/view?usp=sharing)
 ## ScreenShots
 
-![Alt text]("enter repository image URL here") 
+###### ![News section : Recent news with scrollview]("https://drive.google.com/open?id=15ec51Fv485HzR-D_77iKslgheXsxgnjr") 
+###### ![Worldwide Cases of COVID-19]("https://drive.google.com/open?id=1fguB1xwvic7hL79xiDn9A3-77s3_Om24") 
+###### ![Worldwide Cases of COVID-19 Dashboard (1)]("https://drive.google.com/open?id=1XWVL1k1k1rRABpvKwupIA4KvAXJxR4jL") 
+###### ![Worldwide Cases of COVID-19 Dashboard (2)]("https://drive.google.com/open?id=1BM_ZyKuLyAfICf3xvwEpqo0P_9rfiw0H") 
+###### ![Worldwide Cases of COVID-19 Statistics (2)]("https://drive.google.com/open?id=1vQaKCSAUR80rlepCbhel2xsh8Vy4c8Pg") 
+###### ![Impact of COVID-19 in India StateWise]("https://drive.google.com/open?id=1Ep9SCRHmrQic6W4PdkHiy2gy1PytdRJd")
+###### ![Impact of COVID-19 in India StateWise Stats]("https://drive.google.com/open?id=1xhTcUZqpGRzdf0Xbq7VA3q01TYsDylew")
+###### ![Do the Five]("https://drive.google.com/open?id=1BqlQFCGiISoygzVpMEvrv7fofkzpJ6fP") 
+###### ![About Us and Contact]("https://drive.google.com/file/d/1KEF1exBjckGmN3iHY7gghiDQEW4KOMcE/view?usp=sharing") 
