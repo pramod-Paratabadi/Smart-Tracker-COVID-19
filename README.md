@@ -49,8 +49,6 @@ The app is useful for those who want data regarding COVID-19. The people from ev
 ###### Vedio Link: [SmartTrack](https://drive.google.com/file/d/1vEzBMFWMBct7SetWx6kwu3zqCkILLdRR/view?usp=sharing)
 ## ScreenShots
 
-**[News section : Recent news with scrollview**:
-![image](https://drive.google.com/open?id=15ec51Fv485HzR-D_77iKslgheXsxgnjr)
 
 ###### ![News section : Recent news with scrollview](News.jpg) 
 ###### ![Worldwide Cases of COVID-19](worldwide.jpg) 
