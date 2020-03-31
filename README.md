@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Details](#general-info)
-* [Technologies](#technologies)
+* [Idea Description](#technologies)
 * [Setup](#setup)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -17,11 +17,14 @@
 2. Supriya Madiwal - 9766844410
 
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Idea Description
+Android app to track the spread of Corona Virus (COVID-19) : (Smart Tracker – COVID-19)
+Now a days whole world facing the novel Corona Virus, to track the spread of novel Corona Virus country-wise, details of confirmed cases, deaths and Recovered, awareness regarding COVID-19. This Android app was created to spread awareness about the covid -19 virus. It contains the following functionalities:
+1.	Displays relevant news about covid-19.
+2.	Real-time Dashboard that tracks the recent cases of covid-19 across the world and across different states in India.
+3.	The app is specifically shows the relevance data regarding India, it also include testing centers across different states in 	India.
+4.	The last section includes some tips that should follow in this epidemic.
+
 	
 ## Setup
 To run this project, install it locally using npm:
