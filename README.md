@@ -1,7 +1,10 @@
-# COVID-19
+# Smart-Tracker-COVID-19
 
-Software Edition
-Theme: COVID-19 and Quarantine
+##Software Edition
+Team Name    : ##BugZero
+Theme Name  :  ##COVID-19 and Quarantine
+College Name :   ##Walchand Institute of Technology, Solapur
+
 
 Team Details:
 1.  Pramod Paratabadi – 9158038227
