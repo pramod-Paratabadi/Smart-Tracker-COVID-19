@@ -1,16 +1,22 @@
 # Smart-Tracker-COVID-19
 
-## Software Edition
-Team Name    : ## BugZero
-Theme Name  :  ## COVID-19 and Quarantine
-College Name : ## Walchand Institute of Technology, Solapur
+## Table of Contents
+* [Details](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+##Details
 
-Team Details:
-1.  Pramod Paratabadi – 9158038227
-2.  Supriya Madiwal - 9766844410
+### Software Edition
+### Team Name    :  BugZero
+### Theme Name  :   COVID-19 and Quarantine
+### College Name :  Walchand Institute of Technology, Solapur
+###Team Details:
+1. Pramod Paratabadi – 9158038227
+2. Supriya Madiwal - 9766844410
 
-Github repo link: https://github.com/pramod-Paratabadi/COVID-19
+###Github repo link: https://github.com/pramod-Paratabadi/COVID-19
 
 
 Projects: 
