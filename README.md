@@ -27,7 +27,7 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 ## Setup
 ###### How will you implement the idea? :
 ###### For this idea we have used following tech stack :
-- IDE : Android Studio[@Android Studio](https://developer.android.com/studio)
+- IDE : Android Studio[Android Studio](https://developer.android.com/studio)
 
 ###### Dependencies :
 - User should have proper internet facility.
@@ -40,10 +40,10 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 ## Prerequisites
  You will need the following things properly run it on your computer.
 
-- [@Android Studio](https://developer.android.com/studio)
+- [Android Studio](https://developer.android.com/studio)
 
 
-###Github repo link: https://github.com/pramod-Paratabadi/COVID-19
+### [Github repo link](https://github.com/pramod-Paratabadi/COVID-19)
 
 
 Projects: 
