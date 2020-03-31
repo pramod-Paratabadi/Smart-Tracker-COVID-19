@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Details](#details)
-* [Idea Description](#idea)
+* [Idea Description](#idea description)
 * [Setup](#setup)
 
 ## Details
@@ -11,7 +11,7 @@
 ###### Team Name    :  BugZero
 ###### Theme Name  :   COVID-19 and Quarantine
 ###### College Name :  Walchand Institute of Technology, Solapur
-######Team Details:
+###### Team Details:
 1. Pramod Paratabadi – 9158038227
 2. Supriya Madiwal - 9766844410
 
@@ -27,7 +27,7 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 ## Setup
 ###### How will you implement the idea? :
 ###### For this idea we have used following tech stack :
-- IDE : Android Studio(https://developer.android.com/studio)
+- IDE : Android Studio[@eericon](https://developer.android.com/studio)
 
 ###### Dependencies :
 - User should have proper internet facility.
