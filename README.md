@@ -1,9 +1,9 @@
 # Smart-Tracker-COVID-19
 
-##Software Edition
-Team Name    : ##BugZero
-Theme Name  :  ##COVID-19 and Quarantine
-College Name :   ##Walchand Institute of Technology, Solapur
+## Software Edition
+Team Name    : ## BugZero
+Theme Name  :  ## COVID-19 and Quarantine
+College Name : ## Walchand Institute of Technology, Solapur
 
 
 Team Details:
