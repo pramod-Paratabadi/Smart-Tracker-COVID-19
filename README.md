@@ -18,6 +18,7 @@ Abstract:
 Now a days whole world facing the novel Corona Virus, to track the spread of novel Corona Virus country-wise, details of confirmed cases, deaths and Recovered, awareness regarding COVID-19.
 This Android app was created to spread awareness about the covid -19 virus. It contains the following functionalities:
 
-1. Displays relevant news about covid-19 by extracting data from various news sources.
-2. Realtime Dashboard that tracks the recent cases of covid-19 across the globe/ across the states in India
-3. ChatBot which ask users certains questions and based on their interaction make recommendation.
+1. Displays relevant news about covid-19.
+2. Realtime Dashboard that tracks the recent cases of covid-19 across the world and across different states in India.
+3. The app is sepcifically shows the relevance data regarding india, it also include testing centers across different states in India.
+4. ChatBot which ask users certains questions and based on their interaction make recommendation about disease.
