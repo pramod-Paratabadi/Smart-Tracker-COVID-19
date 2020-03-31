@@ -24,7 +24,8 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 
 - [Android Studio](https://developer.android.com/studio)
 
-	
+## Download App here
+[SmartTrack_COVID-19](https://drive.google.com/file/d/1IRrXt93yfd-_R8jwnkZYsHdi4wNFv9LI/view?usp=sharing)
 ## Setup
 ###### How will you implement the idea? :
 ###### For this idea we have used following tech stack :
