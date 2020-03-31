@@ -16,4 +16,7 @@ Android app to track the spread of  Corona Virus (COVID-19).
 
 Abstract: 
 Now a days whole world facing the novel Corona Virus, to track the spread of novel Corona Virus country-wise, details of confirmed cases, deaths and Recovered, awareness regarding COVID-19.
-Our android application helps to track the COVID-19 details, and it shows graphically representation of  country-wise records, awareness regarding COVID-19 and short quiz platform which helps to know the causes of coronavirus. This will help to track current situation and helps proper guidance in critical situaution.
+This Android app was created to spread awareness about the covid -19 virus. It contains the following functionalities:
+1. Displays relevant news about covid-19 by extracting data from various internet sources 
+2. Realtime Dashboard that tracks the recent cases of covid-19 across the globe
+3. ChatBot which ask users certains questions and based on their interaction make recommendation.
