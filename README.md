@@ -24,6 +24,12 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 4.	The last section includes some tips that should follow in this epidemic.
 
 	
+## Prerequisites
+ You will need the following things properly run it on your computer.
+
+- [Android Studio](https://developer.android.com/studio)
+
+	
 ## Setup
 ###### How will you implement the idea? :
 ###### For this idea we have used following tech stack :
@@ -37,13 +43,6 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 ###### For the live data of Indian COVID-19 cases we have used :
 - Coronavirus Monitor
 - Ministry of Health and Welfare of India
-
-## Prerequisites
- You will need the following things properly run it on your computer.
-
-- [Android Studio](https://developer.android.com/studio)
-
-
 
 ## Who are the potential customers and how it will benefit them? :
 The app is useful for those who want data regarding COVID-19. The people from every domain should use this application as it helps to plan to avoid more cases in this epidemic. Government should make a proper planning of beds in hospital, isolation rooms, available more testing kit to the doctors and also plan for necessary steps to be taken out to prevent the coronavirus spread.
