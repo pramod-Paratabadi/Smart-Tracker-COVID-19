@@ -36,6 +36,8 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 - IDE : [Android Studio](https://developer.android.com/studio)
 - [Github repo link](https://github.com/pramod-Paratabadi/COVID-19)
 
+### Clone the repository and build on Android Studio
+
 ###### Dependencies :
 - User should have proper internet facility.
 ###### For the live news update worldwide we have used :
@@ -48,3 +50,8 @@ Now a days whole world facing the novel Corona Virus, to track the spread of nov
 The app is useful for those who want data regarding COVID-19. The people from every domain should use this application as it helps to plan to avoid more cases in this epidemic. Government should make a proper planning of beds in hospital, isolation rooms, available more testing kit to the doctors and also plan for necessary steps to be taken out to prevent the coronavirus spread.
 
 
+## Working of Application 
+###### Vedio Link: [SmartTrack](https://drive.google.com/file/d/1MrsEJaL_s3MZ1bpgTK1tnhowRJymjrvO/view?usp=sharing)
+## ScreenShots
+
+![Alt text]("enter repository image URL here") 
