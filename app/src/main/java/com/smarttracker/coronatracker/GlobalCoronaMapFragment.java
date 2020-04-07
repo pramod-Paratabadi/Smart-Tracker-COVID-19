@@ -23,7 +23,7 @@ public class GlobalCoronaMapFragment extends Fragment {
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
     private WebView webView;
-    private  String Load_url="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd";
+    private  String Load_url="https://www.worldometers.info/coronavirus/";
             //"https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61";
     private final static long threshold = 150000;
 
